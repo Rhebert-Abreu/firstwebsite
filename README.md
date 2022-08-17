@@ -2,7 +2,7 @@
 Desáfio 17 do módulo 2 de HTML do Curso em vídeo.
 Video course HTML module 2 challenge 17.
 
-Eu tentei replicar um layout proposto no curso sem ver a resolução o desafio, então provavelmente ainda tem muitas coisas a serem melhoradas.
+Eu tentei replicar um layout proposto no curso sem ver a resolução do desafio, então provavelmente ainda tem muitas coisas a serem melhoradas.
 
 I tried to remake a layout that was propos by the course without see the resolution of it, so it probably still have some things to improve in it.
 
