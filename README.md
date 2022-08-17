@@ -8,4 +8,5 @@ I tried to remake a layout that was propos by the course without see the resolut
 
 No geral eu usei coisas simples para fazer esse site, nada de muito misterioso, como eu estou começando achei bom ter isso aqui para me lembrar futuramente e ver progresso. Foi usado um conceito bem simples de "responsividade" para o site responder melhor a diferentes resoluções porém ainda bem iniciante.
 
-In the general is a really simple website, nothing big, im starting right now so i think this is something nice to have here so i can remember how bad i was when i get good at it. I used a simple concept of responsiveness to make it work in different screens size and even in a phone.
+In the general is a really simple website, nothing big, im starting right now so i think this is something nice to have here so i can remember how bad i was when i get good at it. I used a simple concept of responsiveness to make it work in different screens sizes and even in a phone.
+
