@@ -1,0 +1,134 @@
+@charset 'UTF-8';
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@font-face {
+    font-family: 'Android';
+    src: url(../fontes/idroid.otf);
+}
+/*:root{
+    --cor0:
+}
+*/
+/*{
+    margin: 0px;
+    padding: 0px;
+}
+*/
+header{
+
+    padding: 10px;
+    background-color: rgba(25, 83, 13, 0.877);
+
+    color: white;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.527);
+}
+
+header>h1{
+    font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.527);
+}
+
+header>p{
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.527);
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(3, 82, 3);
+}
+
+nav>ul>a{
+    font-size: 1.5em;
+    font-family: 'Bebas Neue', Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    margin: 2px;
+    text-decoration: none;
+    background-color: rgba(2, 39, 11, 0.411);
+    border-radius: 10px;
+
+
+}
+
+#article2{
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(167, 231, 194);
+}
+
+#article2 > h2{
+    padding: 7px;
+    border-radius: 10px 10px 0px 0px ;
+    background-color: rgb(56, 231, 123);
+}
+
+#article2 > ul > li> a{
+    color: black;
+}
+
+#article2 > p{
+    padding: 10px;
+}
+
+main{
+    padding: 20px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: white;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.527);
+}
+
+img{
+    width: 100%;
+    margin: auto;
+}
+
+h2{
+    color: rgb(19, 90, 35) ;
+    font-family: 'Android',Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(217, 252, 228);
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 800px;
+    min-width: 250px;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+}
+
+footer{
+    font-size: 1.2em;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    background-color: rgb(2, 56, 23);
+    margin: 5px;
+}
+
+nav{
+    background-color:rgb(2, 56, 23) ;
+    padding: 1px;
+}
+
+nav > ul{
+    padding: 5px;
+}
+
+nav > ul > a{
+    text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.527);
+    padding: 10px;
+}
+
+iframe{
+    width: 100%;
+}
