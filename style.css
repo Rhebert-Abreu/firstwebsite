@@ -118,6 +118,7 @@ footer{
 nav{
     background-color:rgb(2, 56, 23) ;
     padding: 1px;
+    text-align: center;
 }
 
 nav > ul{
